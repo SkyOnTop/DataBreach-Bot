@@ -48,4 +48,4 @@ This Discord bot provides data breach search functionality using the Snusbase AP
 
 ## Support
 
-For support, please contact reversesxvm on Discord.
+For support, please contact reversesxvm on Discord. This bot will not be updated unless heavily requested.
